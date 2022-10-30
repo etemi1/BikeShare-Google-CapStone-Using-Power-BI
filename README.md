@@ -28,4 +28,16 @@ Each csv file contains monthly information about riders, So first thing i do is 
 After joining all 12 files together i commenced with the cleaning process, I deleted columns i didn't need for my analysis, changed data types to necessary data types,  i created a custom column ti calculate ride length, removed blanks where necessary. 
 
 
-## Data Analysis
+## Data Analysis & Visualization
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+   Annual members use bikes mainly on weekdays to commute to work and back from work,  while casual members use bikes mainly on weekends for leisure.  
+   Casual members use docked bikes while annual members don't use docked bikes at all. Both casual and annual members use classic and electicr bikes. 
+   Casual members top station incluced streeter DR, Michigan Ave, Millenium park and theatre on the Lake
+   Casual members seem to have longer ride length compared to Annual members 
+   Casual members make for 55% percent of total rides while annual members make up for 45% of total rides.
+   Annual riders ride more consistently throught out the month except in May when casual riders had a peak month.
+   
+2. Why would casual riders buy Cyclistic annual memberships?
+  Casual riders will buy Cyclisti membership if free trials are given so they can 
+3. How can Cyclistic use digital media to influence casual riders to become members?
