@@ -9,17 +9,19 @@ Characters and teams
 
 ● Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
 
-Three questions will guide the future marketing program:
+## ASK PHASE: 
+  Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
-You will produce a report with the following deliverables:
-1. A clear statement of the business task
-2. A description of all data sources used
-3. Documentation of any cleaning or manipulation of data
-4. A summary of your analysis
-5. Supporting visualizations and key findings
-6. Your top three recommendations based on your analysis
 
+# Deliverable:
+The Business Task is to use quality insights from my analysis to see how different customer types use bike share differently and recommend ways  Cyclistic can convert their casual members to annual members. 
+
+## Data Souce:
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+## Data Cleaning:
+  I imported all 12 csv into power Bi, dataset contained about 5.2million rows and 13 columns and all 12 csv had similiar structure. 
+Each csv file contains monthly information about riders, So first thing i do is to load the files into power query of Power BI to transform the data, 
