@@ -27,6 +27,8 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 Each csv file contains monthly information about riders, So first thing i do is to load the files into power query of Power BI to transform the data, I joined all 12 csv into one and disabled the others from loading into the report environment.
 After joining all 12 files together i commenced with the cleaning process, I deleted columns i didn't need for my analysis, changed data types to necessary data types,  i created a custom column ti calculate ride length, removed blanks where necessary. 
 
+### Data Modelling
+
 
 ## Data Analysis & Visualization
 
